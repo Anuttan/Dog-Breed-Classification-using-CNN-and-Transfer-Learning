@@ -1,2 +1,3 @@
 # Dog Breed Classification using CNN and Transfer Learning
  
+Transfer learning is a machine learning research problem which concentrates on storing acquired knowledge while solving one problem and utilising it to solve another but related problem. For example, knowledge acquired while learning to recognise cars may be applicable when attempting to recognise trucks. In this paper, we compare the performance of multiple pre-trained models on the Stanford Dogs Dataset and classify them into their respective breeds using transfer learning. The models have been pre-trained on the ImageNet Dataset. Some of the models used include ResNet, DensNet, InceptionV3 etc.
